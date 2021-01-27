@@ -7,7 +7,7 @@ Usage: send a GET request to `/compliment/random/{name}` and the API will return
 ```json
 {
     "status":"ok",
-    "compliment":"{name} is a stupid asshat"
+    "compliment":"{name} is an impressive genius"
 }
 ```
 
