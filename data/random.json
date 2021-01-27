@@ -1,7 +1,11 @@
 {
     "nouns":[
         "genius",
-        "bastard"
+        "bastard",
+        "intellectual",
+        "visionary",
+        "artist",
+        "miracle"
     ],
     "adjectives":[
         "amazing",
@@ -11,6 +15,12 @@
         "cool",
         "useful",
         "artistic",
-        "intelligent"
+        "intelligent",
+        "admirable",
+        "impressive",
+        "honourable",
+        "inspirational",
+        "magnificent",
+        "marvellous"
     ]
 }
