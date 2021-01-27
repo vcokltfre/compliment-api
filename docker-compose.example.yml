@@ -1,0 +1,7 @@
+version: '3'
+
+services:
+  iaas:
+    build: .
+    ports:
+      - 6969:6969
